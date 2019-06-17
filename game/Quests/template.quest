@@ -1,0 +1,7 @@
+name: Name of the quest
+description: Description of the quest
+onStart: none
+onResolve: none
+steps: none
+conditions: none
+next: none

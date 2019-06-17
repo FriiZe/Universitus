@@ -1,0 +1,7 @@
+name: Recuperer les papiers
+description: Rusarg vous dis de finaliser votre inscription, allons-y!
+onStart: CreateCharacter(Character("Receptionniste", "Universitus/A22/Guichet_Unique", []))
+onResolve: CreateCharacter(Character("Stupidix", "Universitus/A22/Guichet_Unique",[])) | NpcToPlayer("Stupidix", [""]) | MoveEntity(Entity("Stupidix", "Universitus/A22/Guichet_Unique"), "Universitus/A22/Grande_Salle") | SetDialogueChoice("Stupidix", ["1"]) | CreateLore("Universitus/A22/Grande_Salle","Vous entrez dans la grande salle, qui est un amphithéâtre imposant rempli d'autres élèves.\nUn vieil homme barbu se tient au centre de l'estrade et pointe chaque élève du doigt en prononçant leur nom et prénom.\nVous reconnaissez Stupidix à son air ahuri et son regard vide, il ne vous a pas encore remarqué.\ndestroy")
+steps: none
+conditions: CurrentDialogueChoice("Receptionniste", ["","Mon nom est {username}"])
+next: findStupidix

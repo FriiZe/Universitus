@@ -1,0 +1,7 @@
+name: Bienvenue à Universitus
+description: Vous passez pour la première fois les portes de l'Ecole d'Informagie, Universitus. Un étrange personnage s'approche immédiatement de vous.
+onStart: CreateCharacter(Character("A_Grid","Bethanie",[]))|NpcToPlayer("A_Grid",["1"])
+onResolve: MoveEntity(Entity("A_Grid","Bethanie"),"Bethanie/Parc") | NpcToPlayer("A_Grid",["2"])
+steps: none
+conditions: CurrentPlayerDirectory("Bethanie/Parc")
+next: findRusarg|test

@@ -1,0 +1,28 @@
+{
+  "name": "universitus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -x 'node server.js || touch server.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Adri-/universitus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Adri-/universitus/issues"
+  },
+  "homepage": "https://gitlab.com/Adri-/universitus#readme",
+  "dependencies": {
+    "ansi-to-html": "^0.6.10",
+    "dockerode": "^2.5.8",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.10",
+    "uuid": "^3.3.2",
+    "websocket": "^1.0.28"
+  }
+}

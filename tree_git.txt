@@ -1,0 +1,312 @@
+*   [33m1a2cee0[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[31m|[m[32m\[m  
+[31m|[m *   [33m1e254f1[m Merge remote-tracking branch 'origin/master'
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m|[m [33m703fe83[m favicon
+* [34m|[m [34m|[m [33mc0c00ee[m Add rapport
+[34m|[m [34m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m   
+* [34m|[m [33ma8a140b[m Add gitlab link
+* [34m|[m   [33m9a5c579[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[35m|[m[34m\[m [34m\[m  
+[35m|[m [34m|[m[34m/[m  
+[35m|[m *   [33m57f6da6[m Merge remote-tracking branch 'origin/master'
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m * [1;32m|[m [33mea9e807[m encoding
+* [1;32m|[m [1;32m|[m [33m5e480f0[m Add rapport.pdf
+[1;32m|[m [1;32m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;32m|[m   
+* [1;32m|[m   [33mb818ff8[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[1;33m|[m[1;32m\[m [1;32m\[m  
+[1;33m|[m [1;32m|[m[1;32m/[m  
+[1;33m|[m *   [33m6c25e68[m Merge remote-tracking branch 'origin/master'
+[1;33m|[m [1;35m|[m[1;36m\[m  
+[1;33m|[m * [1;36m|[m [33m5f0c4fe[m needed for Parc to exist
+* [1;36m|[m [1;36m|[m [33md0e47cc[m Add game design document
+[1;36m|[m [1;36m|[m[1;36m/[m  
+[1;36m|[m[1;36m/[m[1;36m|[m   
+* [1;36m|[m   [33m456d5fd[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[31m|[m[1;36m\[m [1;36m\[m  
+[31m|[m [1;36m|[m[1;36m/[m  
+[31m|[m * [33m61229e2[m needed for folders to exist
+[31m|[m * [33m15ef66c[m needed for world to exist
+[31m|[m * [33m1795373[m fix init quest and clean entities
+[31m|[m *   [33m09f33b5[m Merge remote-tracking branch 'origin/master'
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m|[m [33m6c9ad99[m Grande_salle finished
+* [34m|[m [34m|[m [33mddcdcfc[m Add more text in rapport and add cahier_des_charges
+[34m|[m [34m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m   
+* [34m|[m [33m9869836[m Add more text in rapport
+* [34m|[m [33mbd1a589[m Add text
+* [34m|[m   [33mc06a946[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[35m|[m[34m\[m [34m\[m  
+[35m|[m [34m|[m[34m/[m  
+[35m|[m * [33maa80374[m wildcard on dialogue events
+[35m|[m *   [33m598e21a[m Merge remote-tracking branch 'origin/master'
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m * [33m24a2081[m gu
+[35m|[m * [1;32m|[m [33m9785916[m apply wildcard on dialogue choice condition
+[35m|[m * [1;32m|[m   [33m1c1bf38[m Merge remote-tracking branch 'origin/master'
+[35m|[m [1;33m|[m[1;32m\[m [1;32m\[m  
+[35m|[m [1;33m|[m [1;32m|[m[1;32m/[m  
+[35m|[m [1;33m|[m * [33m12c2160[m new quest papers
+[35m|[m * [1;34m|[m [33m995ab30[m working wildcard
+[35m|[m * [1;34m|[m   [33m8d3c581[m Merge remote-tracking branch 'origin/master'
+[35m|[m [1;35m|[m[1;34m\[m [1;34m\[m  
+[35m|[m [1;35m|[m [1;34m|[m[1;34m/[m  
+[35m|[m [1;35m|[m * [33mbc6c869[m new quest papers
+[35m|[m * [1;36m|[m [33mcd2dbbd[m username wildcard
+[35m|[m [1;36m|[m[1;36m/[m  
+* [1;36m|[m [33m6a6f9ef[m Add rapport
+[1;36m|[m[1;36m/[m  
+*   [33m8b2a175[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[31m|[m[32m\[m  
+[31m|[m * [33me34bbf0[m rusarg quest ending
+* [32m|[m [33me839080[m corr de dialogues
+[32m|[m[32m/[m  
+* [33m47d5632[m Quete rusarg terminée
+* [33mc9eb040[m fix Rusarg
+*   [33me55cbab[m Merge remote-tracking branch 'origin/romain-quetes'
+[33m|[m[34m\[m  
+[33m|[m * [33m9b895c6[m correction
+* [34m|[m [33mabb6078[m update guide for new json logic
+* [34m|[m [33m748371d[m load JSON for characters dialogues
+[34m|[m[34m/[m  
+* [33m141b581[m increase container Memory
+* [33m3275f2a[m ça fonctionne
+* [33ma9eea3a[m test empty file
+* [33mc109710[m handle empty file edit
+* [33mc42e3c2[m limite memory (ok) and size (?)
+* [33m8af0381[m replace COPY by ADD (new docker version)
+* [33m30d1b8b[m fix registration using uuid instead of username
+* [33mf868287[m catch
+* [33mec1c3da[m docker create error msg
+* [33m4d8346b[m fix message error
+* [33md4492c1[m username only text
+* [33m71d341a[m remove cmd
+* [33m07dabe1[m test cmd
+* [33mff0fd88[m undo localhost + test size limit
+* [33me76fabe[m better user system
+* [33m0dd3a8d[m fix python command
+* [33m7b0ebd3[m prevent crash when no container is created
+* [33m44880ce[m remove testfile
+* [33mc5c1ac9[m fix \r
+* [33md368b49[m better editor
+* [33mcf839d5[m editor finished :)
+* [33mce0c9c1[m editor nearly finished
+* [33m7ddcdbb[m edition
+* [33m8cbe356[m bytes encoding
+* [33m46f6775[m str to bytes
+* [33m14df48f[m treat \n in edit
+* [33m765475d[m edit encoding
+* [33mda44d1b[m text editor
+* [33mc555422[m refocus input more often
+* [33m3c86a1b[m use up/down arrows to use already entered command
+* [33m58be93c[m ask username on game start
+* [33m31430f7[m better newlines after login/register
+* [33m7720642[m remove useless comments and fix status index on close
+* [33m7889210[m .
+* [33m723579d[m server-side logging
+* [33m7ffc301[m state and message order
+* [33mf7aba95[m async
+* [33m9851c94[m try to await db calls to fix breaks ending the function
+* [33m4b2095f[m nice input styling
+* [33m528be48[m fix double \n on user message
+* [33m1e5978d[m fixunready stdin crash
+* [33medcc2d4[m fix commands, strange
+* [33m9454305[m ?
+* [33mb73a080[m await wasn't working (+breaks)
+*   [33mc5df3a0[m Merge branch 'implement-login'
+[35m|[m[36m\[m  
+[35m|[m * [33mc7ab029[m use await instead
+[35m|[m * [33mfa7e1c3[m wait container create before setting status
+[35m|[m * [33m3dd1793[m commands handling and remove stup nick
+[35m|[m * [33m8df6641[m hide password typing
+[35m|[m * [33m0e829dd[m login prompt
+[35m|[m * [33m5334638[m oops
+[35m|[m * [33ma102c14[m createContainer method
+[35m|[m * [33m1e9b837[m fix some old code and add mysql to npm
+[35m|[m * [33m7616ba1[m import database and merge logic in server
+[35m|[m[35m/[m  
+* [33m8e194ea[m yellow pwd
+*   [33m2d947e5[m Use Events in dialogues
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m1aa0744[m Dialogue A_Grid
+[1;31m|[m * [33m4b6cb7c[m Auto stash before merge of "master" and "origin/master"
+* [1;32m|[m [33mcc2774c[m dialogue events
+[1;32m|[m[1;32m/[m  
+* [33md00ce53[m fix some events
+*   [33me9c50e4[m Merge remote-tracking branch 'origin/master'
+[1;33m|[m[1;34m\[m  
+[1;33m|[m *   [33mea0ec17[m ooooooooooooooooo
+[1;33m|[m [1;35m|[m[1;36m\[m  
+[1;33m|[m * [1;36m|[m [33m51919e5[m Manage answer + minor bug
+* [1;36m|[m [1;36m|[m [33mff45875[m Add more dialogue events
+[1;36m|[m [1;36m|[m[1;36m/[m  
+[1;36m|[m[1;36m/[m[1;36m|[m   
+* [1;36m|[m [33m1a2c526[m improt new events and conditions + template quest
+* [1;36m|[m   [33mf02acaa[m Merge remote-tracking branch 'origin/master'
+[31m|[m[1;36m\[m [1;36m\[m  
+[31m|[m [1;36m|[m[1;36m/[m  
+[31m|[m *   [33m45bbeb1[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m|[m [33mc9350e6[m Merge
+[31m|[m * [34m|[m [33m142a2a7[m Start main quest
+* [34m|[m [34m|[m [33m5a68776[m CurrentDialogue Choice
+[34m|[m [34m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m   
+* [34m|[m [33m273b7ec[m .lore destroy
+* [34m|[m [33m62736ea[m lock and lock events
+[34m|[m[34m/[m  
+* [33m27fb24c[m add lock and easier imports
+* [33m299213c[m nicer character talk newlines
+* [33m7418615[m revert to old ansi front
+* [33m84a5c81[m on fait appel à de la magie noire
+* [33mda3451d[m >
+* [33m1b2f8e2[m new test
+* [33mfc20fa7[m test docker command
+* [33m0d4ee24[m put ansi2html in currect directory
+* [33m5a13af8[m fix docker path
+* [33mbe5fd2a[m use docker side ansi2html
+* [33m263f2c7[m harmonization
+* [33m0b30713[m Revert "override print"
+* [33md81dbe7[m override print
+* [33m5a74d7d[m WAR WON
+* [33mf9d4e23[m Try another to \n
+* [33ma80b713[m war lost
+* [33m57c9c32[m war is declared to \n
+* [33m4f4a611[m use raw instead of ansi2html
+* [33m10db9f8[m \\\\\\\\\\\\\\\\
+* [33m60cd1fe[m change newlinesss
+* [33ma375e00[m NEW LINES
+* [33mfb8b8be[m remove unused import
+* [33mdb08142[m newlines (again)
+* [33m9f646eb[m fix path check
+* [33m1569bbd[m dumb error
+* [33m7e691b0[m finally fix cd
+* [33m1bc6d65[m don't disable input
+* [33mb99be30[m fixed a lot of things
+* [33m19cdb2e[m fix stuck on empty cd return
+* [33mc4bb465[m ugly bypass to hide nick setup
+* [33maf09160[m blank command test
+* [33m329cb65[m better newlines
+* [33mce5e821[m fix newline
+* [33mee9a9b1[m different color for character's lines
+* [33meb7b0ad[m color and fix lines
+* [33m0b510c7[m character color and lines
+* [33mb62cffe[m colors?
+* [33mafa9348[m encoding issues
+* [33m4a99729[m utf8
+* [33m0500de1[m quest colors
+* [33m3719b8f[m tiny font
+* [33me0d15b8[m fix
+* [33ma2dedc0[m test moche
+* [33mf6a4f72[m username
+* [33m2d6775e[m fix broken command send
+* [33mdf3280a[m remove "Ready"
+* [33md07c29b[m test
+*   [33m4bd4634[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[35m|[m[36m\[m  
+[35m|[m * [33m89f000c[m remove color and log to see ansi>html
+* [36m|[m [33m1a63c35[m Changed the style text shows up in the terminal: author and colors are present
+[36m|[m[36m/[m  
+* [33m874b3b8[m oops
+* [33md0355d6[m test remove # check
+* [33me62937b[m line returns test
+* [33me91e276[m remove motd
+*   [33me93020a[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m7bc5974[m let the server handle line returns
+[1;31m|[m * [33m6cfd3e5[m forbidden commands
+[1;31m|[m * [33m5db78c6[m Add promise handler in contener close
+* [1;32m|[m [33m8b1b11c[m Transition de fenetre type 'terminal' a type 'champs de texte' pour les commandes permettant d'editer un fichier.
+[1;32m|[m[1;32m/[m  
+* [33m29ed52c[m Resolve crash on user exit
+* [33m4ec45bd[m Update package.json
+* [33m3bc3e84[m ws works
+*   [33m4c9077a[m Merge branch 'master' of https://gitlab.com/Adri-/universitus
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33md225ab7[m Update .gitignore
+* [1;34m|[m [33m9169da6[m Try with http
+[1;34m|[m[1;34m/[m  
+* [33m22c271d[m add ws://
+* [33m6008261[m test addr
+* [33md2dba86[m Change addr in front
+* [33m3cc2bb6[m Resolve encoding error
+*   [33m9406661[m Merge jeu-python
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33mb14c693[m more precise dialogue
+[1;35m|[m * [33m06baa40[m done
+[1;35m|[m * [33m8729bb2[m to dialogues
+[1;35m|[m * [33m3b2b308[m begin quest guide
+[1;35m|[m * [33medbbc39[m Argus Rusard !
+[1;35m|[m * [33m1d122c7[m welcome to UNIVERSITY (A_Grid)
+[1;35m|[m * [33m30be867[m dialogues
+[1;35m|[m * [33m1fcf008[m example dialogue, TODO: answer dialogue + remember dialogue step
+[1;35m|[m * [33m7435a44[m basic character generation + dialogues
+[1;35m|[m * [33me1eeb78[m file .lore
+[1;35m|[m * [33m9a5a5c1[m fix indent
+[1;35m|[m * [33mce0d040[m create Character
+[1;35m|[m * [33m9ca4a74[m fix restart
+[1;35m|[m * [33m807ecd3[m basic characteristics & characters
+[1;35m|[m * [33m4ac0005[m quest display
+[1;35m|[m * [33m36d5da2[m Working entities & events + chaining quests
+[1;35m|[m * [33me959c57[m working rock quest
+[1;35m|[m * [33mceb4a49[m restart game (+imports)
+[1;35m|[m * [33m4c8b6b3[m fixes and Events
+[1;35m|[m * [33md01c5b5[m resolve quest
+[1;35m|[m * [33m688a679[m edit_ command
+[1;35m|[m * [33m619a115[m edit command
+[1;35m|[m * [33m1a2aa8e[m more events and quest parsing
+[1;35m|[m * [33mf29cfda[m stay inbounds + custom nickname
+[1;35m|[m * [33m034c5c6[m display in-game cwd
+[1;35m|[m * [33mff1243f[m new Command system
+[1;35m|[m * [33m1be1196[m world items are independant from the game's code
+[1;35m|[m * [33m4532af5[m working entities
+[1;35m|[m * [33m418cb98[m working quests conditions + entities
+[1;35m|[m * [33m26f6788[m quest conditions nearly working
+[1;35m|[m * [33m8550b13[m quests import logic
+[1;35m|[m * [33m6db8ee1[m Example quest file
+[1;35m|[m * [33mc4a3ea1[m Add quests directory
+[1;35m|[m * [33mdb1accf[m .
+[1;35m|[m * [33m4d638d4[m path for items / quest items
+[1;35m|[m * [33m1377da4[m quest structure proposal
+* [1;36m|[m [33m0405ada[m Command cd complete + inventory
+* [1;36m|[m [33m76137c8[m Resolution bug && clean code
+* [1;36m|[m [33m00f5e0b[m Modify gitignore
+* [1;36m|[m   [33mb3cda25[m Merge branch 'dockerfile_creation' into 'master'
+[31m|[m[32m\[m [1;36m\[m  
+[31m|[m * [1;36m|[m [33m804a98f[m Lauch docker-game in server
+[31m|[m * [1;36m|[m [33m0bded8b[m Create docker-game
+[31m|[m * [1;36m|[m   [33mede233b[m Merge branch 'jeu-python' of https://gitlab.com/Adri-/universitus into dockerfile_creation
+[31m|[m [33m|[m[1;36m\[m [1;36m\[m  
+[31m|[m [33m|[m [1;36m|[m[1;36m/[m  
+[31m|[m [33m|[m * [33m2344598[m game structure
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+* [33m|[m [33m83672ba[m Start project
+[34m|[m * [33m57d76b0[m Remove server_test and correct output analyze
+[34m|[m * [33m7348a7a[m better
+[34m|[m * [33m43bfad1[m works
+[34m|[m *   [33mc5539f5[m Merge remote-tracking branch 'origin/websocket-version-rub' into websocket-version-rub
+[34m|[m [35m|[m[36m\[m  
+[34m|[m [35m|[m * [33m9a2f2b1[m More code
+[34m|[m * [36m|[m [33m4529afc[m node ignore
+[34m|[m [36m|[m[36m/[m  
+[34m|[m * [33mdef2c1f[m help
+[34m|[m * [33m905420a[m Receiving data in stream
+[34m|[m * [33m46635d6[m Add new server file for testing stream with dockerode
+[34m|[m *   [33mb1a1392[m Merge branch 'websocket-version' of https://gitlab.com/Adri-/universitus into websocket-version
+[34m|[m [1;31m|[m[1;32m\[m  
+[34m|[m [1;31m|[m * [33m4845e78[m Added .gitignore for node_modules
+[34m|[m * [1;32m|[m [33m279f850[m Send result to client
+[34m|[m [1;32m|[m[1;32m/[m  
+[34m|[m * [33mffe2d95[m We can lauch commands
+[34m|[m * [33m0d04c3e[m Why the containeur isn't running ?
+[34m|[m * [33m601ef5d[m Starting containeur
+[34m|[m * [33m491351a[m Create and remove containeurs on connection
+[34m|[m * [33md9f3d38[m Little modif
+[34m|[m * [33m6570c09[m Initial commit
+[34m|[m[34m/[m  
+* [33m0ce0689[m Initial commit

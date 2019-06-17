@@ -1,0 +1,7 @@
+name: Trouver Stupidix
+description: Stupidix est parti vers la Grand Salle, où vous devez vous rendre. Trouvez la Grande Salle et adressez-vous à lui.
+onStart: none
+onResolve: CreateCharacter(Character('Dumbleblin','Universitus/A22/Grande_Salle',[HP(10000)]))|NpcToPlayer('Dumbleblin',["1"])
+steps: none
+conditions: CurrentDialogueChoice("Stupidix", ["1","D'accord, allons nous asseoir d'abord si tu veux bien."])
+next: none

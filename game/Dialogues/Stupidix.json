@@ -1,0 +1,14 @@
+{"": [
+    "OHHHH, toi aussi tu as terminé ton inscription à l'universitus ?? AHAHAHAH je le savais !! Maintenant depeche toi de me rejoindre dans la grande salle pour la ceremonie ... Nous sommes deja en retard !! SERPYTHON 4 EVER <3",
+    {}
+],
+"1": [
+    "AHAHA tu as trouvé la grande salle GG <3 ! Allons-y let's go c'est parti l'ami, nous allons y assister je sais qu'on va y arriver !! Ou allons nous ?? A SERPYTHON <3",
+    {
+        "D'accord, allons nous asseoir d'abord si tu veux bien.": [
+            "On se met derrière par contre, j'ai pas envie de devoir faire genre que je suis attentif tout le long.",
+            {}
+        ]
+    }
+]
+}

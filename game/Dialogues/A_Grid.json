@@ -1,0 +1,19 @@
+{
+    "1": [
+        "Bienvenue dans le monde magique de la programmation {username} ! Ici tu apprendras à te servir d'un pouvoir extrêment rare : l'Unixité. \nC'est une compétence que seuls les plus grands informagiciens peuvent maîtriser, mais grâce à ton parcours dans cette école tu sauras surement révéler ton potentiel ! \nPour commencer, je vais t'apprendre à te téléporter d'un endroit à un autre. Pour cela, utilise la commande `cd <destination>`, par exemple : `cd Parc`. Je t'attends là-bas !",
+        {},
+        "SetDialogueChoice('A_Grid', ['3'])"
+    ],
+    "2": [
+        "Très bien! Comme tu peux le voir en bas, il y a marqué \"Universitus/Parc\". C'est ce qui indique ton emplacement dans le monde. \nJe te propose de t'adresser à monsieur Argus Rusarg afin qu'il te dise où te rendre pour ton inscription. \nUtilise la commande ls pour regarder autour de toi.\nQuand tu l'as trouvé, utilise la commande `talk Rusarg.py`.",
+        {}
+    ],
+    "3": [
+        "Rebonjour !",
+        {}
+    ],
+    "4": [
+        "C'est bien ! Bon, je retourne à Bethanie pour accueillir les prochains élèves. Viens me voir si tu as besoin d'aide !",
+        {}
+    ]
+}

@@ -1,0 +1,7 @@
+name: Test
+description: Description of the quest
+onStart: RemoveEntity(Rock("Bethanie"))
+onResolve: none
+steps: none
+conditions: EntityExists(Rock("Bethanie"))
+next: none

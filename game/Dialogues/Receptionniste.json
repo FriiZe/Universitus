@@ -1,0 +1,11 @@
+{
+    "": [
+        "Bonjour, Mr ...\n Quel est votre nom ? Veuillez me l'indiquer me répondant avec la commande `talk Receptionniste.py <choix>`, où <choix> est le numéro de la phrase que vous souhaitez me dire.",
+        {
+            "Mon nom est {username}": [
+                "Très bien {username}, Votre inscription est maintenant terminée, voici vos papiers, les autres vous attendent deja pour la ceremonie. Depechez vous ou le professeur Dumbleblin vous lancera un mauvais processort",
+                {}
+            ]
+        }
+    ]
+}
